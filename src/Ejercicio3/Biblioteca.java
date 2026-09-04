@@ -1,4 +1,4 @@
-package Punto3;
+package Ejercicio3;
 
 import java.util.ArrayList;
 import java.util.List;

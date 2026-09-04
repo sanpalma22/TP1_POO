@@ -1,4 +1,4 @@
-package Punto3;
+package Ejercicio3;
 
 public class Libro {
     String ISBN;

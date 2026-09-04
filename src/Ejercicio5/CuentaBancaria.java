@@ -1,4 +1,4 @@
-package Punto5;
+package Ejercicio5;
 
 public class CuentaBancaria {
     private String numeroCuenta;

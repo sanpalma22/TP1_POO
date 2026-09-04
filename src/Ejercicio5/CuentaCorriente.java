@@ -1,4 +1,4 @@
-package Punto5;
+package Ejercicio5;
 
 public class CuentaCorriente extends CuentaBancaria {
     double limiteDescubierto;
